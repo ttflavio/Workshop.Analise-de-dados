@@ -6,7 +6,7 @@ Este repositório contém as tabelas `clientes` e `pedidos` criadas e utilizadas
 
 1. [Sobre](#sobre)
 2. [Tabelas](#tabelas)
-3. [Como Usar](#como-usar)
+
 
 ## Sobre
 
@@ -68,10 +68,5 @@ Exemplo de dados na tabela `pedidos`:
 | 9         | 9          | 90.60   | 2024-02-20  |
 | 10        | 10         | 310.30  | 2024-02-22  |
 
-## Como Usar
 
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/ttflavio/workshop.analise-de-dados.git
 
