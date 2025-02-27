@@ -35,5 +35,3 @@ Durante esta semana, aprendi como:
 
 ## 📬 Contato
 Fique à vontade para entrar em contato caso tenha dúvidas ou queira colaborar!
-
-Esse formato deve ficar bem organizado e informativo para quem acessar o repositório!
